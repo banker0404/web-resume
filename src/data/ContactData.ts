@@ -8,33 +8,33 @@ library.add(faLinkedin, faSquareGithub, faSquareGitlab, faSquareXTwitter, faSqua
 export const ContactData = [
     {
         ContactIcon: "fa-brands fa-square-github",
-        ContactLink: "/",
-        ContactText: "github.com/john-doe"
+        ContactLink: "https://github.com/banker0404",
+        ContactText: "github.com/banker0404"
     },
-    {
-        ContactIcon: "fa-brands fa-square-gitlab",
-        ContactLink: "/",
-        ContactText: "gitlab.com/john-doe"
-    },
+    // {
+    //     ContactIcon: "fa-brands fa-square-gitlab",
+    //     ContactLink: "/",
+    //     ContactText: "gitlab.com/john-doe"
+    // },
     {
         ContactIcon: "fa-brands fa-linkedin",
-        ContactLink: "/",
-        ContactText: "linkedin.com/in/john-doe"
+        ContactLink: "https://www.linkedin.com/in/pranav-banker/",
+        ContactText: "linkedin.com/in/pranav-banker"
         // ContactText: "john-doe-123456789"
     },
-    {
-        ContactIcon: "fa-brands fa-square-x-twitter",
-        ContactLink: "/",
-        ContactText: "x.com/john-doe"
-    },
+    // {
+    //     ContactIcon: "fa-brands fa-square-x-twitter",
+    //     ContactLink: "/",
+    //     ContactText: "x.com/john-doe"
+    // },
     {
         ContactIcon: "fa-solid fa-square-envelope",
-        ContactLink: "/",
+        ContactLink: "mailto:pranavmbanker@gmail.com",
         ContactText: "pranavmbanker@gmail.com"
     },
     {
         ContactIcon: "fa-solid fa-square-phone",
-        ContactLink: "/",
+        ContactLink: "tel:+917700999273",
         ContactText: "+91 7700999273"
     },
 ]
