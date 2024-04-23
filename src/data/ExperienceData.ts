@@ -12,7 +12,7 @@ export const ExperienceData = [
     },
     {
         ExperienceOrganization: "Glitch!",
-        ExperienceWorkTitle: "ORGANISING COMMITTEE",
+        ExperienceWorkTitle: "Organising Committee",
         ExperienceTimeFrom: "August 2023",
         ExperienceTimeTo: "April 2024",
         ExperienceLocation: "Jaipur, Rajasthan",
