@@ -1,24 +1,24 @@
 export const ExperienceData = [
     {
-        ExperienceOrganization: "MICROSOFT INDIA",
-        ExperienceWorkTitle: "INTERN",
-        ExperienceTimeFrom: "May 2021",
-        ExperienceTimeTo: "July 2021",
-        ExperienceLocation: "Hyderabad, Telangana",
+        ExperienceOrganization: "Randomize Club of Computer Science",
+        ExperienceWorkTitle: "Working Team Member ",
+        ExperienceTimeFrom: "September 2022",
+        ExperienceTimeTo: "May 2023",
+        ExperienceLocation: "Jaipur, Rajasthan",
         ExperienceDescription: [
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-            "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+            "Worked in a team of 75+ members where we worked together to host various technical events like Hackathons, Datathons and Ideathons.",
+            "I was in charge of coming up with idead for the events and taking care of administrative operations like permissions and permits required to host the events.",
         ],
     },
     {
-        ExperienceOrganization: "IIIT DELHI",
-        ExperienceWorkTitle: "RESEARCHER",
+        ExperienceOrganization: "Glitch! Club of Anime Gaming and VFX",
+        ExperienceWorkTitle: "ORGANISING COMMITTEE",
         ExperienceTimeFrom: "August 2023",
-        ExperienceTimeTo: "Present",
-        ExperienceLocation: "Delhi",
+        ExperienceTimeTo: "April 2024",
+        ExperienceLocation: "Jaipur, Rajasthan",
         ExperienceDescription: [
-            "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+            "Worked in a team of 50+ members where we hosted various cultural events related to anime gaming and VFX. We conducted gaming competitions and also had workshops where we taught VFX. We also hosted gaming competitions and sent our own team to other colleges and take part in competitions there.",
+            "I was responsible for the marketing and promotions of the events and registrations of participants. I also with a team of 5-6 members was responsible for smooth execution of events.",
         ],
     },
 ]
