@@ -30,11 +30,11 @@ export const ContactData = [
     {
         ContactIcon: "fa-solid fa-square-envelope",
         ContactLink: "/",
-        ContactText: "johndoe@email.com"
+        ContactText: "pranavmbanker@gmail.com"
     },
     {
         ContactIcon: "fa-solid fa-square-phone",
         ContactLink: "/",
-        ContactText: "+91 9876543210"
+        ContactText: "+91 7700999273"
     },
 ]
