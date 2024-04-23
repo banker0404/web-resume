@@ -1,7 +1,7 @@
 export const ExperienceData = [
     {
         ExperienceOrganization: "Randomize CS Club",
-        ExperienceWorkTitle: "Working Team Member ",
+        ExperienceWorkTitle: "Working Team",
         ExperienceTimeFrom: "September 2022",
         ExperienceTimeTo: "May 2023",
         ExperienceLocation: "Jaipur, Rajasthan",
