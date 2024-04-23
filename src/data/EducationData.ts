@@ -1,7 +1,7 @@
 export const EducationData = [
     {
-        EducationInstitutionName: "UNIVERSITY OF ENGINEERING, DELHI",
-        EducationCourseName: "Master of Engineering",
+        EducationInstitutionName: "MANIPAL UNIVERSITY JAIPUR",
+        EducationCourseName: "Bacherlor of Engineering",
         EducationFromTime: "2022",
         EducationToTime: "Present",
         EducationMajor: "Big Data Analysis",
