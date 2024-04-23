@@ -29,9 +29,9 @@ const Education = () => {
                                     {!education.EducationHasSpecialization ? ("") : (<li><span
                                         className='font-semibold text-primary'><span className='font-semibold text-secondary opacity-75 select-none'> › </span>Specialization:<span> </span></span><span
                                         className='text-primary font-light'>{education.EducationSpecialization}</span></li>)}
-                                    <li><span
+{/*                                     <li><span
                                         className='font-semibold text-primary'><span className='font-semibold text-secondary opacity-75 select-none'> › </span>GPA:<span> </span></span><span
-                                        className='text-primary font-light'>{education.EducationGPA}</span></li>
+                                        className='text-primary font-light'>{education.EducationGPA}</span></li> */}
                                 </ul>
                             </div>
                         </div>
