@@ -1,6 +1,6 @@
 export const ExperienceData = [
     {
-        ExperienceOrganization: "Randomize Club of Computer Science ",
+        ExperienceOrganization: "Randomize Club of Computer Science",
         ExperienceWorkTitle: "Working Team Member ",
         ExperienceTimeFrom: "September 2022",
         ExperienceTimeTo: "May 2023",
@@ -11,7 +11,7 @@ export const ExperienceData = [
         ],
     },
     {
-        ExperienceOrganization: "Glitch! Club of Anime Gaming and VFX",
+        ExperienceOrganization: "Glitch!",
         ExperienceWorkTitle: "ORGANISING COMMITTEE",
         ExperienceTimeFrom: "August 2023",
         ExperienceTimeTo: "April 2024",
