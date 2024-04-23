@@ -1,6 +1,6 @@
 export const ExperienceData = [
     {
-        ExperienceOrganization: "Randomize Club of Computer Science",
+        ExperienceOrganization: "Randomize CS Club",
         ExperienceWorkTitle: "Working Team Member ",
         ExperienceTimeFrom: "September 2022",
         ExperienceTimeTo: "May 2023",
