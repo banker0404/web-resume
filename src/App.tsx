@@ -7,7 +7,7 @@ import Skills from "./components/Skills.tsx";
 import Experience from "./components/Experience.tsx";
 import Projects from "./components/Projects.tsx";
 import Certifications from "./components/Certifications.tsx";
-import Achievements from "./components/Achievements.tsx";
+// import Achievements from "./components/Achievements.tsx";
 import HorizontalRule from "./components/HorizontalRule.tsx";
 import {HeaderFullName} from "./data/HeaderData.ts";
 
