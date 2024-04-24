@@ -17,7 +17,7 @@ export const ExperienceData = [
         ExperienceTimeTo: "April 2024",
         ExperienceLocation: "Jaipur, Rajasthan",
         ExperienceDescription: [
-            "I worked with a team of 50+ members where we hosted various cultural events related to anime gaming and VFX. We conducted gaming competitions and held workshops where we taught VFX. We also hosted gaming competitions and sent our own team to other colleges to take part in competitions there.",
+            "I worked with a team of 50+ members where we hosted various cultural events related to anime gaming and VFX. We conducted gaming competitions and had workshops where we taught beginners the basic of VFX. We also hosted gaming competitions and sent our own team to other colleges to take part in competitions there.",
             "I was responsible for the marketing and promotions of the events and registrations of participants. I along with a team of 5-6 members was responsible for smooth execution of events.",
         ],
     },
