@@ -9,7 +9,7 @@ export const ProjectsData = [
         ProjectGitLabLink: "/",
         ProjectHasOtherLink: false,
         ProjectOtherLink: "/",
-        ProjectTimeFrom: "April 2024",
+        ProjectTimeFrom: "Apr 2024",
         ProjectHasTimeTo: false,
         ProjectTimeTo: "Jan 2022",
         ProjectHasLocation: true,
