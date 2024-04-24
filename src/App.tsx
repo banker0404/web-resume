@@ -33,8 +33,8 @@ function App() {
                         <Projects/>
                         <HorizontalRule/>
                         <Certifications/>
-                        <HorizontalRule/>
-                        <Achievements/>
+{/*                         <HorizontalRule/>
+                        <Achievements/> */}
                     </div>
                     <hr className='mx-auto border-2 border-opacity-50 border-primary my-[2.5%] w-[95%]'/>
                 </div>
