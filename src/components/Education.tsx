@@ -7,7 +7,7 @@ const Education = () => {
                 <div className='bg-background'>
                     <h2 className='text-lg text-foreground font-bold print:mt-[2.5%] pointer-events-none'>EDUCATION</h2>
                     {EducationData.map((education, id) => (
-                    <div key={id} className='mb-[2.5%]'>
+                    <div key={id} className='mb-[2.5%] grid grid-cols-2'>
                         <div className='grid'>
                             <div>
                                 <p className='font-semibold text-base text-primary'>{education.EducationInstitutionName}</p>
