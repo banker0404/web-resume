@@ -6,7 +6,7 @@ export const ExperienceData = [
         ExperienceTimeTo: "May 2023",
         ExperienceLocation: "Jaipur, Rajasthan",
         ExperienceDescription: [
-            "Worked with a team of 75+ members where we worked together to host various technical events like Hackathons, Datathons and Ideathons.",
+            "Worked with a team of 75+ members where we hosted various technical events like Hackathons, Datathons and Ideathons.",
             "I was in charge of coming up with ideas for the events. I was also responsible for administrative necessities like permissions and permits required to host the events.",
         ],
     },
@@ -17,7 +17,7 @@ export const ExperienceData = [
         ExperienceTimeTo: "April 2024",
         ExperienceLocation: "Jaipur, Rajasthan",
         ExperienceDescription: [
-            "I orked with a team of 50+ members where we hosted various cultural events related to anime gaming and VFX. We conducted gaming competitions and held workshops where we taught VFX. We also hosted gaming competitions and sent our own team to other colleges to take part in competitions there.",
+            "I worked with a team of 50+ members where we hosted various cultural events related to anime gaming and VFX. We conducted gaming competitions and held workshops where we taught VFX. We also hosted gaming competitions and sent our own team to other colleges to take part in competitions there.",
             "I was responsible for the marketing and promotions of the events and registrations of participants. I along with a team of 5-6 members was responsible for smooth execution of events.",
         ],
     },
