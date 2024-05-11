@@ -1,7 +1,7 @@
 export const HeaderFirstName = "Pranav";
 export const HeaderLastName = "Banker";
 export const HeaderFancyName = false;
-export const HeaderTitle = "Data Analyst / ML Researcher";
+//export const HeaderTitle = "Data Analyst / ML Researcher";
 export const HeaderAddress = "Mumbai, Maharashtra, India";
 
 // For Fancy Name Style
