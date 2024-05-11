@@ -1,7 +1,7 @@
 export const CertificationsData = [
     {
         certificationCourseName : "Introduction to Machine Learning with Python",
-        certificationHaveCourseLink : true,
+        certificationHaveCourseLink : false,
         certificationCoursePlatformName : "Coursera",
         certificationLinkToCourse : "https://www.coursera.org/learn/introduction-to-machine-learning-with-python",
         certificationHaveCertificate : true,
@@ -9,7 +9,7 @@ export const CertificationsData = [
     },
     {
         certificationCourseName : "Introduction to Python",
-        certificationHaveCourseLink : true,
+        certificationHaveCourseLink : false,
         certificationCoursePlatformName : "Coursera",
         certificationLinkToCourse : "https://www.coursera.org/learn/introduction-to-python-1",
         certificationHaveCertificate : true,
@@ -17,7 +17,7 @@ export const CertificationsData = [
     },
     {
         certificationCourseName : "Introduction to Generative AI",
-        certificationHaveCourseLink : true,
+        certificationHaveCourseLink : false,
         certificationCoursePlatformName : "coursera",
         certificationLinkToCourse : "https://www.coursera.org/learn/introduction-to-generative-ai",
         certificationHaveCertificate : true,
