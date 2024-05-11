@@ -7,7 +7,7 @@ export const ExperienceData = [
         ExperienceLocation: "Jaipur",
         ExperienceDescription: [
             "Worked with a team of 75+ members where we hosted various technical events like Hackathons, Datathons and Ideathons.",
-            "I was in charge of coming up with ideas for the events. I was also responsible for administrative necessities like permissions and permits required to host the events.",
+            "In charge of coming up with ideas for the events. I was also responsible for administrative necessities like permissions and permits required to host the events.",
         ],
     },
     {
